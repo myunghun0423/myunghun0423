@@ -9,4 +9,3 @@ myunghun0423/myunghun0423 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-IDK wtf is going on
